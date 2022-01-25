@@ -13,7 +13,7 @@
       <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://takuyak0625.github.io/Test/kaken_app/</guid>
-      <description>    KAKEN分析アプリは文部科学省科学研究費助成事業（科研費）の採択課題情報を用いた分析ツールです。主な機能としては、研究機関別の採択件数や金額、審査区分別の採択課題の特徴、研究者のネットワーク等を分析・可視化できます。 ご利用はこちら        </description>
+      <description>   KAKEN分析アプリは文部科学省科学研究費助成事業（科研費）の採択課題情報を用いた分析ツールです。主な機能としては、研究機関別の採択件数や金額、審査区分別の採択課題の特徴、研究者のネットワーク等を分析・可視化できます。 ご利用はこちら     </description>
     </item>
     
     <item>
@@ -22,7 +22,7 @@
       <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://takuyak0625.github.io/Test/sanren_app/</guid>
-      <description>    SANREN分析アプリは文部科学省が実施する産学連携等実施状況に関する調査データを用いた分析ツールです。主な機能としては、研究機関別の共同研究、受託研究、URA等の人材の配置状況等を分析・可視化できます。 ご利用はこちら        </description>
+      <description>   SANREN分析アプリは文部科学省が実施する産学連携等実施状況に関する調査データを用いた分析ツールです。主な機能としては、研究機関別の共同研究、受託研究、URA等の人材の配置状況等を分析・可視化できます。 ご利用はこちら     </description>
     </item>
     
     <item>
@@ -97,27 +97,6 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     </item>
     
     <item>
-      <title>Biography</title>
-      <link>https://takuyak0625.github.io/Test/biography/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://takuyak0625.github.io/Test/biography/</guid>
-      <description>  1. 職歴 2021年8月 横浜国立大学・研究推進機構 特任教員（講師）（現職）
-2019年4月 信州大学学術研究・産学官連携推進機構 助教（2021年7月迄）
-2016年5月 広島大学学術室研究企画室 URA（2019年3月迄）
-2013年4月 日本学術振興会特別研究員（DC2）（2015年3月迄）
- 2. 学歴 2016年3月 広島大学大学院教育学研究科 修了（博士）
-2012年3月 広島大学大学院教育学研究科 修了（修士）
-2009年3月 広島大学教育学部 卒業
-2005年3月 熊本県立熊本高等学校 卒業
- ３. その他 PM育成・活躍推進プログラム 第5期研修生
-多変量解析実務講座 修了
-現代統計実務講座 修了
- In case you haven’t found the answer for your question please feel free to contact us, our customer support will be happy to help you.
-  </description>
-    </item>
-    
-    <item>
       <title>Contact</title>
       <link>https://takuyak0625.github.io/Test/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -149,21 +128,37 @@ Please feel free to contact us, our customer service center is working for you 2
     </item>
     
     <item>
+      <title>Profile</title>
+      <link>https://takuyak0625.github.io/Test/profile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://takuyak0625.github.io/Test/profile/</guid>
+      <description>   1. 職歴 2021年8月 横浜国立大学 研究推進機構 特任教員（講師）/ URA（現職）
+2019年4月 信州大学 学術研究・産学官連携推進機構 助教（URA）（2021年7月迄）
+2016年5月 広島大学 学術室研究企画室 URA（2019年3月迄）
+2013年4月 日本学術振興会 特別研究員（DC2）（2015年3月迄）
+ 2. 学歴 2016年3月 広島大学大学院教育学研究科 修了（博士）
+2012年3月 広島大学大学院教育学研究科 修了（修士）
+2009年3月 広島大学教育学部 卒業
+2005年3月 熊本県立熊本高等学校 卒業
+ ３. その他 Data Science Specialization（Coursera, Johns Hopkins University）
+第5期 PM育成・活躍推進プログラム修了（JST）
+知的財産管理技能検定３級（一般社団法人知的財産教育協会）
+多変量解析実務講座 修了（一般財団法人実務教育研究所）
+現代統計実務講座 修了（一般財団法人実務教育研究所）
+   氏名：久保 琢也 博士（学術）
+出身：熊本県熊本市
+趣味：動物園散策
+Mail：kubo-takuya-xv[AT]ynu.ac.jp
+  </description>
+    </item>
+    
+    <item>
       <title>Works</title>
       <link>https://takuyak0625.github.io/Test/works/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://takuyak0625.github.io/Test/works/</guid>
-      <description>1. 論文  久保琢也, 平井克之 (2021)「研究IRにおける科研費分析の効率化を目指したWebアプリケーションの開発」『大学評価とIR』13, 3-12. 久保琢也, 伊藤広幸 (2021)「J-STAGEを活用した日本の学術論文データの整備」『大学評価とIR』12, 26-35. 平井克之, 岡崎麻紀子, 奥津佐恵子, 久保琢也, 矢吹命大, 渡邉優香 (2021)「研究力分析の効率化・高度化に関する Code for Research Administration の取組み:URAによる機関を越えた連携」『情報の科学と技術』 久保琢也 (2020)「大学図書館における人文社会系の専門書の所蔵状況 ―CiNii BooksとopenBDを用いた予備的調査―」 『第９回大学情報・機関調査研究集会 論文集』 久保琢也, 伊藤広幸 (2020)「基盤研究 (A) にステップアップした研究者の科研費採択履歴の特徴」『大学評価とIR』11, 15-24. 久保琢也 (2016)『OS語順の産出における普遍性と言語個別性 : カクチケル語VOS語順における検討』広島大学学位論文 久保琢也, 小野創, 田中幹大, 小泉政利, 酒井弘 (2015) 「カクチケル語VOS語順の産出メカニズム−有生性の効果を通して−」『認知科学』22(4), 591-603. 久保琢也 (2014)「カクチケル語における語順の選択に影響を与える要因−談話的卓立性を手がかりとして−」 『広島大学教育学研究科紀要』2(63) 久保琢也 (2013)「名詞句の類似性が語順の選択に与える影響−カクチケル語における検討−」『電子情報通信学会技 術研究報告』113, 63-68.
- 久保琢也 (2011)「VOS言語において有生性が語順に与える影響−カクチケル語における線画描写課題での検討−」『電子情報通信学会技 術研究報告』111, 19-24.   2. 発表  久保琢也, Hansen Marc, 平井克之, 間宮るい (2021)「機関を超えたURAによる産学連携等実施状況を分析するためのWebアプリケーションの開発」 第７回リサーチアドミニストレーター協議会 年次大会</description>
-    </item>
-    
-    <item>
-      <title>Works</title>
-      <link>https://takuyak0625.github.io/Test/works%E3%81%AE%E3%82%B3%E3%83%92%E3%82%9A%E3%83%BC/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://takuyak0625.github.io/Test/works%E3%81%AE%E3%82%B3%E3%83%92%E3%82%9A%E3%83%BC/</guid>
       <description>1. 論文  久保琢也, 平井克之 (2021)「研究IRにおける科研費分析の効率化を目指したWebアプリケーションの開発」『大学評価とIR』13, 3-12. 久保琢也, 伊藤広幸 (2021)「J-STAGEを活用した日本の学術論文データの整備」『大学評価とIR』12, 26-35. 平井克之, 岡崎麻紀子, 奥津佐恵子, 久保琢也, 矢吹命大, 渡邉優香 (2021)「研究力分析の効率化・高度化に関する Code for Research Administration の取組み:URAによる機関を越えた連携」『情報の科学と技術』 久保琢也 (2020)「大学図書館における人文社会系の専門書の所蔵状況 ―CiNii BooksとopenBDを用いた予備的調査―」 『第９回大学情報・機関調査研究集会 論文集』 久保琢也, 伊藤広幸 (2020)「基盤研究 (A) にステップアップした研究者の科研費採択履歴の特徴」『大学評価とIR』11, 15-24. 久保琢也 (2016)『OS語順の産出における普遍性と言語個別性 : カクチケル語VOS語順における検討』広島大学学位論文 久保琢也, 小野創, 田中幹大, 小泉政利, 酒井弘 (2015) 「カクチケル語VOS語順の産出メカニズム−有生性の効果を通して−」『認知科学』22(4), 591-603. 久保琢也 (2014)「カクチケル語における語順の選択に影響を与える要因−談話的卓立性を手がかりとして−」 『広島大学教育学研究科紀要』2(63) 久保琢也 (2013)「名詞句の類似性が語順の選択に与える影響−カクチケル語における検討−」『電子情報通信学会技 術研究報告』113, 63-68.
  久保琢也 (2011)「VOS言語において有生性が語順に与える影響−カクチケル語における線画描写課題での検討−」『電子情報通信学会技 術研究報告』111, 19-24.   2. 発表  久保琢也, Hansen Marc, 平井克之, 間宮るい (2021)「機関を超えたURAによる産学連携等実施状況を分析するためのWebアプリケーションの開発」 第７回リサーチアドミニストレーター協議会 年次大会</description>
     </item>
